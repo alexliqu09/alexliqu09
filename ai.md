@@ -18,3 +18,7 @@
 * [machine-learning-applied-to-distinguish-whether-it-is-deer-or-foxes ](https://github.com/alexliqu09/-machine-learning-applied-to-distinguish-whether-it-is-deer-or-foxes)
 
 * [python_for_ML ](https://github.com/alexliqu09/python_for_ML)
+
+* [graphic-mean-squared-error](https://github.com/alexliqu09/graphic-mean-squared-error)
+
+* [mean_squared_error_regression_logistic](https://github.com/alexliqu09/mean_squared_error_regression_logistic)
