@@ -23,7 +23,6 @@ I want to keep learning more and more about Artificial Intelligence and be able 
 * AI projetcs: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/ai.md">🤖</a>
 * Security projects: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/cibersecurity.md">🔑</a>
 
-
 ##  ⚡ Github Stats 
 <p>
 <div align="center">
