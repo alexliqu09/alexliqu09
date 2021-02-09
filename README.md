@@ -4,7 +4,7 @@
 🧑🏽 `I'm just a student of Computer Science and Deep Learning lover.`<br><em> 
 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
 
-<img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/pytorch.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/miko.png"/>
 
 
 ## 🧰 Languages and Tools:
