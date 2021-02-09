@@ -1,14 +1,8 @@
 # Hello, Alexander Lique is Here! ٩(◕‿◕)۶
 
-<p align="center">
-<a href="https://github.com/alexliqu09/alexliqu09/blob/main/ai.md">🤖</a>
-<a href="https://github.com/alexliqu09/alexliqu09/blob/main/cibersecurity.md">🔑</a>
-</p>
-
-## **I'm just a student of Computer Science and Deep Learning lover**.
-
-*  💻 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world.
-*  👌🏽 I love programming and learning more and more about this field.
+ 
+🧑🏽 `I'm just a student of Computer Science and Deep Learning lover.`<br><em> 
+I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
 
 ## 🧰 Languages and Tools:
 
@@ -21,17 +15,19 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-##  📚 Awesome Projects
+##  📚 My Projects 
 
-- [NihonBW 🤖](https://github.com/alexliqu09/NihonBW) 
-- [Socialnet 🔑](https://github.com/alexliqu09/SocialNet)
+* AI projetcs: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/ai.md">🤖</a>
+* Security projects: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/cibersecurity.md">🔑</a>
+
+
 ##  ⚡ Github Stats 
 <p>
 <div align="center">
 
 <a href="#user-30538313-pinned-items-reorder-form">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexliqu09&show_icons=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexliqu09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 
 </a>
 </div>
