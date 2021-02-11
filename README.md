@@ -1,7 +1,8 @@
 # Hello, Alexander Lique is Here! ٩(◕‿◕)۶
 
  
-🧑🏽 `I'm just a student of Computer Science and Deep Learning lover.`<br><em> 
+## 🧑🏽 I'm just a student of Computer Science and Deep Learning lover.
+<em> 
 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
 
 <img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/miko.png"/>
@@ -23,6 +24,7 @@ I want to keep learning more and more about Artificial Intelligence and be able 
 * AI projetcs: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/ai.md">🤖</a>
 * Security projects: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/cibersecurity.md">🔑</a>
 * web projects: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/web.md">🌍</a>
+* Tutorials projects: <a href="https://github.com/alexliqu09/alexliqu09/blob/main/web.md">📒 </a>
 ##  ⚡ Github Stats 
 <p>
 <div align="center">
