@@ -19,6 +19,7 @@ I want to keep learning more and more about Artificial Intelligence and be able 
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="torch" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="torch" height="40" style="vertical-align:top; margin:4px">
 </p>
 
