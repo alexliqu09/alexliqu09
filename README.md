@@ -6,7 +6,7 @@
 
 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
 
-<img align="right" height="auto" width="200" src="/home/alex/Desktop/Proyectos/alexliqu09/src/avatar.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/avatar.png"/>
 
 
 ## 🧰 Languages and Tools:
