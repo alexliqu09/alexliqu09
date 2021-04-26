@@ -10,5 +10,5 @@
 <img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/tutorial.png"/>
 </a>
 
-- [GitCourse ](https://github.com/alexliqu09/GitCourse)
-- [Python_for_machine_learning](https://github.com/alexliqu09/python_for_ML)
+- [ALGORITMOS_Y_ESTRUCTURA_DE_DATOS](https://github.com/alexliqu09/ALGORITMOS_Y_ESTRUCTURA_DE_DATOS)
+- [Python_for_ML_and_DL](https://github.com/alexliqu09/Python_for_ML_and_DL)
