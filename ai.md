@@ -16,6 +16,8 @@
 
 *  [NihonBW ](https://github.com/alexliqu09/NihonBW) 
 
+* [MikoBOT](https://github.com/alexliqu09/MikoBOT)  
+
 * [machine-learning-applied-to-distinguish-whether-it-is-deer-or-foxes ](https://github.com/alexliqu09/-machine-learning-applied-to-distinguish-whether-it-is-deer-or-foxes)
 
 * [python_for_ML_and_DL](https://github.com/alexliqu09/Python_for_ML_and_DL)
