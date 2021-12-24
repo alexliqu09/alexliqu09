@@ -14,6 +14,8 @@
 
 ## AI Projects 🤖
 
+* [Sentiment Analysis on Amazon Reviews](https://github.com/alexliqu09/Sentiment-Analysis-on-Amazon-Reviews)
+
 *  [NihonBW ](https://github.com/alexliqu09/NihonBW) 
 
 * [MikoBOT](https://github.com/alexliqu09/MikoBOT)  
