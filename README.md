@@ -6,7 +6,7 @@
 
 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
 
-You can see my cv here: [CV](https://drive.google.com/file/d/1FLVSDhpCEb8N3kzZ8GE0rz8JLhJZHAnX/view?usp=sharing)
+You can see my cv here: [CV](src/My_CV_Alex.pdf)
 
 <img align="right" height="auto" width="200" src="https://github.com/alexliqu09/alexliqu09/blob/main/src/avatar.png"/>
 
