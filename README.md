@@ -1,7 +1,7 @@
 # Hello, Alexander Lique is Here! ٩(◕‿◕)۶
 
  
-## 🧑🏽 I'm just a student of Computer Science and Deep Learning lover.
+## 🧑🏽 I'm just a student of Computer Science and Deep Learning enthusiast.
 <em> 
 
 I want to keep learning more and more about Artificial Intelligence and be able to create models that can help the world , in addition , I love programming and learning more and more about this field.</em>
