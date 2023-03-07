@@ -14,6 +14,16 @@
 
 ## AI Projects 🤖
 
+* [RE Idetification Persons with Siameses Network]()
+
+* [Bytetrack with Faster RCNN](https://github.com/alexliqu09/Tracking-algorithm)
+
+* [Soccer Player Detection](https://github.com/alexliqu09/Soccer-Player-Detection)
+
+* [Raiting prediction](https://github.com/alexliqu09/StarClassification)
+
+* [Style transfer in APP](https://gitlab.com/20192196k/ccoa2a/styletransfer)
+
 * [Sentiment Analysis on Amazon Reviews](https://github.com/alexliqu09/Sentiment-Analysis-on-Amazon-Reviews)
 
 *  [NihonBW ](https://github.com/alexliqu09/NihonBW) 
